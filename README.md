@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/401-advanced-javascript-bw/lab-08-data-modeling/pull/1)
 - [travis](https://www.travis-ci.com/401-advanced-javascript-bw/lab-08-data-modeling)
 
 ### Modules
